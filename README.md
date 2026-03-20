@@ -1,0 +1,1 @@
+# Firefox Clean Profile
